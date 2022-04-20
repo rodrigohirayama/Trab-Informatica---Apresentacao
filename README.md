@@ -10,3 +10,6 @@ a bordo do avião morreram no acidente (dois pilotos, três tripulantes de cabin
 
 Aeronave do acidente:
 ![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/MD83_guess.jpg)
+
+Foto Rodrigo Hirayama
+![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Rodrigo Hirayama.jpg)
