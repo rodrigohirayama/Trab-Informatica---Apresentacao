@@ -12,4 +12,4 @@ Aeronave do acidente:
 ![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/MD83_guess.jpg)
 
 Foto Rodrigo Hirayama
-![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Rodrigo%20Hirayama.JPG | width=100)
+![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Rodrigo%20Hirayama.JPG =250x250)
