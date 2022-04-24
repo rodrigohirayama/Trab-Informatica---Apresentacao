@@ -13,3 +13,7 @@ Aeronave do acidente:
 
 Foto Rodrigo Hirayama
 ![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Rodrigo%20Hirayama.JPG)
+
+Foto Jose luiz
+![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Jose luiz.JPG)
+
