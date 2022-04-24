@@ -17,3 +17,6 @@ Foto Rodrigo Hirayama
 Foto Jose luiz
 ![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Jose luiz.JPG)
 
+Foto Felipe Augusto
+![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresenta/blob/main/Felipe Augusto.JPG)
+
