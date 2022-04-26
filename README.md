@@ -21,5 +21,5 @@ Foto Felipe Augusto
 ![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Felipe_Augusto.jpg)
 
 Foto Jonas Vinicio
-![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/<<jonas>>.jpg)
+![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/jonas.jpeg)
 
