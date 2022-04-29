@@ -9,7 +9,13 @@ caiu no Oceano Pacífico a cerca de 2,7 milhas (4,3 km; 2,3 milhas náuticas) ao
 a bordo do avião morreram no acidente (dois pilotos, três tripulantes de cabine e 83 passageiros) e a aeronave ficou totalmente destruída. Foi, na época, o acidente mais grave envolvendo um MD-83.
 
 Aeronave do acidente:
+
 ![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/MD83_guess.jpg)
+
+## 📁 Acesso ao projeto
+
+**Você pode baixar a apresentação clicando aqui.**
+[Apresentação ppt](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/apresenta%C3%A7ao%20acidente%20-%20Informatica.pptx)
 
 ## Autores
 
