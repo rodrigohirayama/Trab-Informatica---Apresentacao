@@ -21,7 +21,9 @@ Aeronave do acidente:
 
 
 
-https://user-images.githubusercontent.com/101457912/165942080-baaf27c9-5d4b-44d9-b39f-33d1c2da60af.mp4
+https://user-images.githubusercontent.com/101457912/165945952-284fe923-b2c8-453e-9ec9-453459bd26de.mp4
+
+
 
 O filme "O voo" é ficticio, porém possui forte inspiração no caso do voo da Alaska Airlines 261.
 
