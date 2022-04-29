@@ -1,6 +1,6 @@
 # Tema: Voo Alaska Airlines 261
 
-## Grupo: Felipe Augusto, Milton, José Luiz, Jonas Vinicio e Rodrigo Hirayama
+## Grupo: Felipe Augusto, José Luiz, Jonas Vinicio e Rodrigo Hirayama
 
 Descrição: O voo 261 da Alaska Airlines foi uma rota internacional regular de passageiros do Aeroporto Internacional
 Licenciado Gustavo Díaz Ordaz em Puerto Vallarta, Jalisco, México, para o Aeroporto Internacional de Seattle – Tacoma em Seattle, Washington, Estados Unidos, 
