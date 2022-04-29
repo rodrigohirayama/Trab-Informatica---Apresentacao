@@ -17,6 +17,14 @@ Aeronave do acidente:
 **Você pode baixar a apresentação clicando aqui.**
 [Apresentação ppt](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/apresenta%C3%A7ao%20acidente%20-%20Informatica.pptx)
 
+## Video
+
+
+
+https://user-images.githubusercontent.com/101457912/165942080-baaf27c9-5d4b-44d9-b39f-33d1c2da60af.mp4
+
+O filme "O voo" é ficticio, porém possui forte inspiração no caso do voo da Alaska Airlines 261.
+
 ## Autores
 
 
