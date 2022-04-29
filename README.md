@@ -11,15 +11,8 @@ a bordo do avião morreram no acidente (dois pilotos, três tripulantes de cabin
 Aeronave do acidente:
 ![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/MD83_guess.jpg)
 
-Foto Rodrigo Hirayama
-![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Rodrigo%20Hirayama.JPG)
+## Autores
 
-Foto Jose luiz
-![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Jose%20luiz.jpg)
 
-Foto Felipe Augusto
-![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Felipe_Augusto.jpg)
-
-Foto Jonas Vinicio
-![alt text](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/jonas.jpeg)
-
+|  [<img src="https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Rodrigo%20Hirayama.JPG" width=115><br><sub>Rodrigo Hirayama</sub>](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Rodrigo%20Hirayama.JPG) |  [<img src="https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Jose%20luiz.jpg" width=115><br><sub>Jose Luiz</sub>](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Jose%20luiz.jpg) |  [<img src="https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Felipe_Augusto.jpg" width=115><br><sub>Felipe Augusto</sub>](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/Felipe_Augusto.jpg) |  [<img src="https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/jonas.jpeg" width=115><br><sub>Jonas Vinicio</sub>](https://github.com/rodrigohirayama/Trab-Informatica---Apresentacao/blob/main/jonas.jpeg) |
+| :---: | :---: | :---: | :---: |
